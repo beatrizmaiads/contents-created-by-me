@@ -32,7 +32,7 @@ Para mais dicas e conteúdos me siga no [LinkedIn](https://www.linkedin.com/in/b
 
 ## **📑 Slides**
 
-◼️ [Análise Exploratória de Dados](https://github.com/ai-inclusive/analise-exploratoria-de-dados/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20AI%20Inclusive.pdf)
+◼️ [Análise Exploratória de Dados](https://github.com/beatrizmaiads/contents-created-by-me/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20AI%20Inclusive.pdf)
 
 
 

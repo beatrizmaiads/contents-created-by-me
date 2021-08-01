@@ -2,9 +2,11 @@
 
 **[EN]** In this repository will be all the contents created by me such as articles, presentations, videos, and more.
 I want to bring content both in Portuguese and English to help as many people as possible.
+For more tips and content follow me on [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/).
 
 **[PT-BR]** Neste repositório estarão todos os conteúdos criados por mim, tais como artigos, apresentações, vídeos, e muito mais.
 Quero trazer conteúdos tanto em português como em inglês para ajudar o maior número de pessoas possível.
+Para mais dicas e conteúdos me siga no [LinkedIn](https://www.linkedin.com/in/beatrizmaiads/).
 
 ## Content summary
 
@@ -19,11 +21,13 @@ Quero trazer conteúdos tanto em português como em inglês para ajudar o maior 
 
 ## **🎥 Events**
 
-◼️ [Live - Análise Exploratória de Dados](https://www.youtube.com/watch?v=9irM_mwe7T0)
+◼️ [Live - Locaweb Digital Conference | Inclusão e Diversidade](https://www.youtube.com/watch?v=y_hct24Psgk&list=PLiWHHufbVh1gYyfPdOT7fiI7EXtnEDh3M&index=13)
 
-◻️ [Live - Como construir um currículo de sucesso](https://www.youtube.com/watch?v=H3GEgOk9cb4)
+◻️ [Live - Análise Exploratória de Dados](https://www.youtube.com/watch?v=9irM_mwe7T0)
 
-◼️ [Live - Utilizando o GitHub para expor seus projetos de Data Science](https://www.youtube.com/watch?v=Kkco06E_ZOY&t=2557s)
+◼️ [Live - Como construir um currículo de sucesso](https://www.youtube.com/watch?v=H3GEgOk9cb4)
+
+◻️ [Live - Utilizando o GitHub para expor seus projetos de Data Science](https://www.youtube.com/watch?v=Kkco06E_ZOY&t=2557s)
 
 
 ## **📑 Slides**

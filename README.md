@@ -12,14 +12,13 @@ Para mais dicas e conteúdos me siga no [LinkedIn](https://www.linkedin.com/in/b
 
 | Legend    |   Category       |
 | --------- | -----------------|
-| 📚        | Book summary     |
 | 🎥        | Events           |
 | 📑        | Slides           |
 | 📝        | Blog Posts       |
 
 
 
-## **🎥 Events**
+## **🎥 Eventos | Events**
 
 ◻️ [Live - Locaweb Digital Conference | Inclusão e Diversidade](https://www.youtube.com/watch?v=y_hct24Psgk&list=PLiWHHufbVh1gYyfPdOT7fiI7EXtnEDh3M&index=13)
 
@@ -30,17 +29,14 @@ Para mais dicas e conteúdos me siga no [LinkedIn](https://www.linkedin.com/in/b
 ◻️ [Live - Utilizando o GitHub para expor seus projetos de Data Science](https://www.youtube.com/watch?v=Kkco06E_ZOY&t=2557s)
 
 
-## **📑 Slides**
+## **📑 Apresentações | Slides**
 
 ◻️ [Análise Exploratória de Dados](https://github.com/beatrizmaiads/contents-created-by-me/blob/main/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20AI%20Inclusive.pdf)
 
 
-
-## **📝 Blog Posts**
+## **📝 Posts no Blog | Blog Posts**
 
 ◻️ [Como estudar Data Science utilizando o Dataquest](https://beatrizmaiads.medium.com/como-estudar-data-science-utilizando-o-dataquest-4cfaf3e07424)
-
-◻️ [How to study Data Science using Dataquest]()
 
 ◻️ [Analisando meus dados da Netflix](https://beatrizmaiads.medium.com/analisando-meus-dados-da-netflix-fdce7182b6b9)
 
